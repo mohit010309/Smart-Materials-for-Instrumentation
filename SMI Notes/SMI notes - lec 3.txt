@@ -1,0 +1,22 @@
+oscillation is used to create sound in buzzer
+
+polarization at local level in peizoelectric material
+
+peizoelectric material can work as a sensor
+and also as a actuator
+
+peizoelectric material as actuator can do precise positioning if we are able to control voltage
+
+S = whole surface
+da = area
+q = net charge
+
+sigma = stress
+epsilon = strain
+
+e = part of reverse peizoelectric effect
+
+
+in example of peizoelectric effect :
+
+if d15 is less , major component of polarization comes from the z-axis , P3 

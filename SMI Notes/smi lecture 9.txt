@@ -1,0 +1,13 @@
+sigma 1 = normal stress
+sigma 2 = tangential stress
+
+piezoresistive sensor behaves in linear way
+
+higher sensitivity = higher gauge factor
+
+is the sensor linear/non-linear
+is the sensor repeatable/non-repeatable
+K = plate stifness
+
+strain directly proportional to poisson ratio
+E = young modulus

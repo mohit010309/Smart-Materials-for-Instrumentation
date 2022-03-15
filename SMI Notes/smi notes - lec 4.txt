@@ -1,0 +1,18 @@
+pyroelectric = external heat leads to development of temporary voltage
+
+we can change the direction of dipole in ferroelectric material
+
+remnant state = non-zero dipole moment
+
+domain is a region where there are uniform dipole moments
+
+berlincourt method :
+D = charge density
+sigma = stress applied
+E = constant
+Q = charge
+F = applied force
+
+rayleigh law = d33 decreases
+
+spray coating = not homogenous coating , coating thickness is low

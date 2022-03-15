@@ -1,0 +1,14 @@
+optical fibre = total internal reflection , two different refractive indexes
+
+uses : fast internet speed , information from one end to another end
+
+peizo = to press
+peizoresistor = as a sensor and actuator
+
+more sensitive = results more accurate
+
+why do we use accelerometer in cell phones ? = how much input , how much acceleration we need
+
+length increases = diameter decreases
+
+gauge factor = per unit change of resistance
